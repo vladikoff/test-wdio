@@ -1,0 +1,16 @@
+{
+  "name": "test-wdio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-standalone": "^2.44.0-7",
+    "webdriverio": "^2.4.0"
+  }
+}
